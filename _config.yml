@@ -1,4 +1,4 @@
-layout_spectrum: 0.234767
+typography_spectrum: 0.1589212
 color:
   saturation: 0.8965691
   lightness: 0.2220646
@@ -10,5 +10,6 @@ color:
     - '#606863'
     - '#D2A251'
   rhythmicContrast: 0.9525487
-typography_spectrum: 0.1589212
+layout_spectrum: 0.234767
 name: Daniela
+description: ux

@@ -3,8 +3,8 @@ description: >-
   Los deportistas que compiten en las Olimpiadas de Río 2016 han tenido tiempo
   para imponer marcas mundiales, llevarse medallas de vuelta a su casa y de
   elevar el uso de Tinder a casi un deporte.
-dateModified: '2016-08-16T01:20:13.175Z'
-datePublished: '2016-08-16T01:20:14.081Z'
+dateModified: '2016-08-16T01:20:46.460Z'
+datePublished: '2016-08-16T01:20:47.173Z'
 title: ''
 author: []
 publisher: {}

@@ -3,19 +3,18 @@ description: >-
   Los deportistas que compiten en las Olimpiadas de Río 2016 han tenido tiempo
   para imponer marcas mundiales, llevarse medallas de vuelta a su casa y de
   elevar el uso de Tinder a casi un deporte.
-dateModified: '2016-08-16T01:10:00.431Z'
-datePublished: '2016-08-16T01:10:13.455Z'
+dateModified: '2016-08-16T01:20:13.175Z'
+datePublished: '2016-08-16T01:20:14.081Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-16-los-deportistas-que-compiten-en-las-olimpiadas-de-rio-2016-h.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: los-deportistas-que-compiten-en-las-olimpiadas-de-rio-2016-h/index.html
+_type: Blurb
 
 ---
 Los deportistas que compiten en las Olimpiadas de Río 2016 han tenido tiempo para imponer marcas mundiales, llevarse medallas de vuelta a su casa y de elevar el uso de Tinder a casi un deporte.
